@@ -245,3 +245,4 @@ This section summarizes key findings from the **Product Performance Analysis** a
 4. **Bucket Fest in Underperforming Regions** – Use Buckets as a promotional hook to drive penetration in South-East and South-South regions.
 
 ## MainDashboard
+https://github.com/Ojoayobami/Retail-Product-Performance-Analysis/blob/main/Product%20Analysis%20-%20Dashboard%202.png?raw=true
