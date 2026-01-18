@@ -30,7 +30,7 @@ Several steps were carried out to ensure the data was accurate and analysis-read
 
 These steps ensured all datasets were clean, consistent, and ready for modeling and visualization in Power BI.
 
-## ⚙️ Calculated Fields & Measures
+## ⚙️ CALCULATED FIELDS & MEASURES
 
 To enable advanced time-based and performance analysis, calculated tables, columns, and measures were created in Power BI.
 
