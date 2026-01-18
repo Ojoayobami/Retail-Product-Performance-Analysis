@@ -249,5 +249,6 @@ This section summarizes key findings from the **Product Performance Analysis** a
 The Power BI dashboard provides **interactive visualizations** to explore product performance, revenue growth, and regional trends.  
 
 <img width="1533" height="752" alt="image" src="https://github.com/user-attachments/assets/13fcb5dd-876e-4e08-823d-f001c544de0c" />
-<img width="1530" height="756" alt="image" src="https://github.com/user-attachments/assets/35919363-dced-46d0-9e67-43fc86b195b9" />
+<img width="1534" height="755" alt="image" src="https://github.com/user-attachments/assets/878e165e-80a4-4966-bbc1-57a023d282e2" />
+
 
