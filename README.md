@@ -246,3 +246,5 @@ This section summarizes key findings from the **Product Performance Analysis** a
 
 ## MainDashboard
 https://github.com/Ojoayobami/Retail-Product-Performance-Analysis/blob/main/Product%20Analysis%20-%20Dashboard%202.png?raw=true
+
+Product Analysis - Dashboard 2.png
