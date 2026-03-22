@@ -107,7 +107,7 @@ This table was linked to the sales table using `order_date`.
 
 These calculated fields enabled **product classification, performance ranking, growth analysis, and strategic insights** across regions, stores, and sales channels.
 
-## 🔧 DATA TRANSFORMATION TOOLS USED
+## 🔧 Data Transformation Tool Used
 
 During the data preparation and transformation stage, the following tools were used to clean, format, and prepare the dataset for analysis:
 
@@ -122,7 +122,7 @@ During the data preparation and transformation stage, the following tools were u
 
 These tools helped streamline **data ingestion, cleaning, transformation, analysis, and visualization** throughout the project lifecycle.
 
-## 🔍 EXPLORATORY DATA ANALYSIS (EDA)
+## 🔍 Exploratory Data Analysis (EDA)
 
 EDA was conducted to **understand patterns, distributions, and relationships** in the data before deeper analysis. The focus was on visual exploration and identifying areas of interest.
 
@@ -143,7 +143,7 @@ EDA helped shape **dashboard design, KPI selection, and analytical focus**.
 
 ---
 
-## 📊 STATISTICAL ANALYSIS
+## 📊 Statistical Analysis
 
 To complement EDA, **quantitative metrics and comparisons** were calculated to measure performance and growth more formally.
 
@@ -170,7 +170,7 @@ This approach **quantified trends, measured performance, and supported actionabl
 
 ---
 
-## 📈 OVERALL PERFORMANCE
+## 📈 Overall Performance
 
 The business shows strong growth across revenue, volume, and market reach.
 
@@ -189,7 +189,7 @@ The business shows strong growth across revenue, volume, and market reach.
 
 This high-level overview **sets the stage for deeper product, regional, and channel analysis** and provides context for KPIs and dashboards in the project.
 
-## 💡 INSIGHTS & RECOMMENDATIONS
+## 💡 Insights & Recommendations
 
 This section summarizes key findings from the **Product Performance Analysis** and provides actionable recommendations for management.
 
@@ -237,14 +237,14 @@ This section summarizes key findings from the **Product Performance Analysis** a
 
 ---
 
-### 🎯 RECOMMENDATIONS
+### 🎯 Recommendation
 
 1. **Bundle of Stars Promotion** – Pair Buckets (family meal) with Cake (dessert) as a “Family Celebration Feast” to maximize top-performing products.  
 2. **Review January Promotions** – Shift focus from low-margin Supporting Products to Value Drivers to increase profitability.  
 3. **Upsell Initiative (Dine-in)** – Encourage customers buying high-volume singles to upgrade to Combos for marginal price increase.  
 4. **Bucket Fest in Underperforming Regions** – Use Buckets as a promotional hook to drive penetration in South-East and South-South regions.
 
-## MAINDASHBOARD
+## Main Dashboard
 
 The Power BI dashboard provides **interactive visualizations** to explore product performance, revenue growth, and regional trends.  
 
